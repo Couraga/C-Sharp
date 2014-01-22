@@ -1,0 +1,6 @@
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\bin\Debug\Introduktionsuppgift.exe.config
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\bin\Debug\Introduktionsuppgift.exe
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\bin\Debug\Introduktionsuppgift.pdb
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\obj\Debug\Introduktionsuppgift.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\obj\Debug\Introduktionsuppgift.exe
+P:\C-Sharp\Introduktionsuppgift solution\Introduktionsuppgift\obj\Debug\Introduktionsuppgift.pdb
