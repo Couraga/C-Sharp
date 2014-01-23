@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\bin\Debug\Finn Fem Fel.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\bin\Debug\Finn Fem Fel.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\bin\Debug\Finn Fem Fel.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\obj\Debug\Finn Fem Fel.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\obj\Debug\Finn Fem Fel.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 2\Finn Fem Fel\Finn Fem Fel\obj\Debug\Finn Fem Fel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 5\Lotteriintäkt\bin\Debug\Lotteriintäkt.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 5\Lotteriintäkt\bin\Debug\Lotteriintäkt.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 5\Lotteriintäkt\bin\Debug\Lotteriintäkt.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 5\Lotteriintäkt\obj\Debug\Lotteriintäkt.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 5\Lotteriintäkt\obj\Debug\Lotteriintäkt.pdb

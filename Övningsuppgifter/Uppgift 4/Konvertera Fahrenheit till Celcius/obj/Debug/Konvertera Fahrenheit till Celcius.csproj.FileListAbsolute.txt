@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\bin\Debug\Konvertera Fahrenheit till Celcius.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\bin\Debug\Konvertera Fahrenheit till Celcius.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\bin\Debug\Konvertera Fahrenheit till Celcius.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\obj\Debug\Konvertera Fahrenheit till Celcius.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\obj\Debug\Konvertera Fahrenheit till Celcius.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 4\Konvertera Fahrenheit till Celcius\obj\Debug\Konvertera Fahrenheit till Celcius.pdb

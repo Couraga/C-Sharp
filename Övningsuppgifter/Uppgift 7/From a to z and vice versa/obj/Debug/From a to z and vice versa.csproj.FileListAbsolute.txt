@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\bin\Debug\From a to z and vice versa.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\obj\Debug\From a to z and vice versa.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\bin\Debug\From a to z and vice versa.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\bin\Debug\From a to z and vice versa.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\obj\Debug\From a to z and vice versa.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 7\From a to z and vice versa\obj\Debug\From a to z and vice versa.pdb

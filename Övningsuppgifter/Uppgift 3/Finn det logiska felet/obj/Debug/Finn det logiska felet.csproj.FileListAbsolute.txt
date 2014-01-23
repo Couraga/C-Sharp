@@ -1,0 +1,5 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 3\Finn det logiska felet\bin\Debug\Finn det logiska felet.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 3\Finn det logiska felet\bin\Debug\Finn det logiska felet.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 3\Finn det logiska felet\bin\Debug\Finn det logiska felet.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 3\Finn det logiska felet\obj\Debug\Finn det logiska felet.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 3\Finn det logiska felet\obj\Debug\Finn det logiska felet.pdb

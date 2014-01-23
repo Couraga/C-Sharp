@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\bin\Debug\Hello.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\bin\Debug\Hello.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\bin\Debug\Hello.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\obj\Debug\Hello.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 1\Hello\Hello\obj\Debug\Hello.pdb

@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\bin\Debug\Produkten av heltal.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\bin\Debug\Produkten av heltal.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\bin\Debug\Produkten av heltal.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\obj\Debug\Produkten av heltal.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\obj\Debug\Produkten av heltal.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 6\Produkten av heltal\obj\Debug\Produkten av heltal.pdb

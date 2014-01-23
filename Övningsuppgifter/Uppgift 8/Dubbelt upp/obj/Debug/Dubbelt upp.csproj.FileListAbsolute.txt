@@ -1,0 +1,6 @@
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\bin\Debug\Dubbelt upp.exe.config
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\obj\Debug\Dubbelt upp.csprojResolveAssemblyReference.cache
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\bin\Debug\Dubbelt upp.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\bin\Debug\Dubbelt upp.pdb
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\obj\Debug\Dubbelt upp.exe
+P:\C-Sharp\Övningsuppgifter\Uppgift 8\Dubbelt upp\obj\Debug\Dubbelt upp.pdb
